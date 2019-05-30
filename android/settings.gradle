@@ -1,0 +1,3 @@
+rootProject.name = 'antimondapp'
+
+include ':app'
